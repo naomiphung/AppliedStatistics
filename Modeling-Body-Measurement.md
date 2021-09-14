@@ -32,13 +32,6 @@ with the curve of normal probability density function (pdf) .
 In a further step, Shiparo-Wilk’s test is performed to confirm the
 observations from the the graphical technique.
 
-<p>
- 
-</p>
-<p>
- 
-</p>
-
 ## Load Packages
 
 ``` r
@@ -57,28 +50,6 @@ library(dplyr)
     ## The following objects are masked from 'package:base':
     ## 
     ##     intersect, setdiff, setequal, union
-
-<p>
- 
-</p>
-<p>
- 
-</p>
-<p>
- 
-</p>
-<p>
- 
-</p>
-<p>
- 
-</p>
-<p>
- 
-</p>
-<p>
- 
-</p>
 
 ## Data
 
@@ -197,15 +168,6 @@ thi_bdm %>% group_by(gender) %>%
     ## 1 male    56.5   56    4.25  53.7  59.2  5.45  46.8  70  
     ## 2 female  57.2   56.4  4.64  53.8  59.8  6.03  46.3  75.7
 
-<p>
- 
-</p>
-<p>
- 
-</p>
-<p>
- 
-</p>
 <p>
  
 </p>
@@ -365,18 +327,7 @@ lines(fem_xfit,fem_yfit, col="red")
 ```
 
 ![](Modeling-Body-Measurement_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
-<p>
- 
-</p>
-<p>
- 
-</p>
-<p>
- 
-</p>
-<p>
- 
-</p>
+
 <p>
  
 </p>
